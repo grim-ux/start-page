@@ -17,7 +17,7 @@ const default_config = {
   tabs: [
     {
       name: "myself",
-      background_url: "src/img/banners/cbg-016.gif",
+      background_url: "src/img/banners/cbg-16.gif",
       categories: [
         {
           name: "bookmarks",
@@ -55,7 +55,7 @@ const default_config = {
               name: "drive",
               url: "https://drive.google.com/drive/home",
               icon: "brand-google-drive",
-              icon_color: palette.blue,
+              icon_color: palette.red,
             },
           ],
         },
@@ -65,14 +65,8 @@ const default_config = {
             {
               name: "kudasai",
               url: "https://somoskudasai.com",
-              icon: "play-card-k",
+              icon: "letter-k",
               icon_color: palette.green,
-            },
-            {
-              name: "antojosai",
-              url: "https://antojasai.com",
-              icon: "letter-a-small",
-              icon_color: palette.peach,
             },
           ],
         },
@@ -192,7 +186,7 @@ const default_config = {
             {
               name: "osu!",
               url: "https://osu.ppy.sh/",
-              icon: "direction-arrows",
+              icon: "circle-dashed-x",
               icon_color: palette.green,
             },
             {
