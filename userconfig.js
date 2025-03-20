@@ -92,9 +92,9 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "neptune",
-              url: "https://ui.neptune.ai",
-              icon: "circle-triangle",
+              name: "Claude",
+              url: "https://claude.ai/new",
+              icon: "north-star",
               icon_color: palette.peach,
             },
             {
