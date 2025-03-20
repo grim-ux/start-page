@@ -12,7 +12,7 @@ const default_config = {
     iconColor: palette.maroon,
   },
   disabled: [],
-  fastlink: "https://github.com/grim-ux",
+  fastlink: "https://nierautomata-anime.com/",
   openLastVisitedTab: true,
   tabs: [
     {
