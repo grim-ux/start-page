@@ -12,7 +12,7 @@ const default_config = {
     iconColor: palette.maroon,
   },
   disabled: [],
-  fastlink: "https://nierautomata-anime.com/",
+  //fastlink: "https://nierautomata-anime.com/",
   openLastVisitedTab: true,
   tabs: [
     {
