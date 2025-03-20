@@ -17,7 +17,7 @@ const default_config = {
   tabs: [
     {
       name: "myself",
-      background_url: "src/img/banners/cbg-20.gif",
+      background_url: "src/img/banners/cbg-18.gif",
       categories: [
         {
           name: "bookmarks",
@@ -155,7 +155,7 @@ const default_config = {
     },
     {
       name: "chi ll",
-      background_url: "src/img/banners/cbg-26.gif",
+      background_url: "src/img/banners/cbg-27.gif",
       categories: [
         {
           name: "social media",
@@ -227,7 +227,7 @@ const default_config = {
             {
               name: "bato.to",
               url: "https://bato.to/",
-              icon: "library",
+              icon: "book-2",
               icon_color: palette.blue,
             },
           ],
