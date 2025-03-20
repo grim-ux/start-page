@@ -17,7 +17,7 @@ const default_config = {
   tabs: [
     {
       name: "myself",
-      background_url: "src/img/banners/cbg-16.gif",
+      background_url: "src/img/banners/cbg-20.gif",
       categories: [
         {
           name: "bookmarks",
@@ -56,6 +56,12 @@ const default_config = {
               url: "https://drive.google.com/drive/home",
               icon: "brand-google-drive",
               icon_color: palette.red,
+            },
+            {
+              name: "9xbuddy",
+              url: "https://9xbuddy.online/",
+              icon: "markdown",
+              icon_color: palette.blue,
             },
           ],
         },
@@ -149,7 +155,7 @@ const default_config = {
     },
     {
       name: "chi ll",
-      background_url: "src/img/banners/cbg-08.gif",
+      background_url: "src/img/banners/cbg-26.gif",
       categories: [
         {
           name: "social media",
@@ -176,7 +182,7 @@ const default_config = {
               name: "pinterest",
               url: "https://es.pinterest.com",
               icon: "brand-pinterest",
-              icon_color: palette.red,
+              icon_color: palette.blue,
             },
           ],
         },
@@ -194,6 +200,35 @@ const default_config = {
               url: "https://monkeytype.com/",
               icon: "keyboard",
               icon_color: palette.peach,
+            },
+          ],
+        },
+        {
+          name: "manga/anime",
+          links: [
+            {
+              name: "weeb central",
+              url: "https://weebcentral.com/",
+              icon: "books",
+              icon_color: palette.green,
+            },
+            {
+              name: "aniswift",
+              url: "https://aniswift.top/en",
+              icon: "device-tv-old",
+              icon_color: palette.peach,
+            },
+            {
+              name: "manga cherri",
+              url: "https://mangacherri.com/home.php",
+              icon: "cherry",
+              icon_color: palette.red,
+            },
+            {
+              name: "bato.to",
+              url: "https://bato.to/",
+              icon: "library",
+              icon_color: palette.blue,
             },
           ],
         },
