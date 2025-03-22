@@ -92,9 +92,9 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "Claude",
-              url: "https://claude.ai/new",
-              icon: "north-star",
+              name: "Qwen",
+              url: "https://chat.qwen.ai/",
+              icon: "brand-redux",
               icon_color: palette.peach,
             },
             {
