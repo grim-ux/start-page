@@ -35,7 +35,7 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "NeoVim",
+              name: "neovim",
               url: "https://neovim.io/",
               icon: "brand-vimeo",
               icon_color: palette.red,
