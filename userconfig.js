@@ -34,6 +34,12 @@ const default_config = {
               icon: "binary-tree",
               icon_color: palette.peach,
             },
+            {
+              name: "NeoVim",
+              url: "https://neovim.io/",
+              icon: "brand-vimeo",
+              icon_color: palette.red,
+            },
           ],
         },
         {
