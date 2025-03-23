@@ -201,6 +201,12 @@ const default_config = {
               icon: "keyboard",
               icon_color: palette.peach,
             },
+            {
+              name: "vim-game",
+              url: "https://grim-ux.github.io/vim-experiments/",
+              icon: "brand-vimeo",
+              icon_color: palette.red,
+            },
           ],
         },
         {
