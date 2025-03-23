@@ -37,7 +37,7 @@ const default_config = {
             {
               name: "neovim",
               url: "https://neovim.io/",
-              icon: "brand-vimeo",
+              icon: "square-letter-n",
               icon_color: palette.red,
             },
           ],
@@ -208,9 +208,9 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "vim-game",
+              name: "vim",
               url: "https://grim-ux.github.io/vim-experiments/",
-              icon: "brand-vimeo",
+              icon: "square-letter-n",
               icon_color: palette.red,
             },
           ],
