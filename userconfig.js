@@ -1,5 +1,5 @@
-// latte / frappe / macchiato / mocha
-const palette = everforest;
+// latte / frappe / macchiato / mocha / everforest
+const palette = macchiato;
 
 const default_config = {
   overrideStorage: true,
