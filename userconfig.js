@@ -1,5 +1,5 @@
 // latte / frappe / macchiato / mocha / everforest / gruvboxGreen
-const palette = gruvboxGreen;
+const palette = mocha;
 
 const default_config = {
   overrideStorage: true,
